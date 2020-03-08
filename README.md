@@ -2,5 +2,4 @@
 
 ## Introductory Material
 
-- [Set up R programming environment (Japanese)](https://nbviewer.jupyter.org/github/vdem-eastasia/seminars/blob/tutorial-material/tutorial/1a_setup-r-programming-environment.ipynb)
-- [Install Miniconda (Japanese)](https://nbviewer.jupyter.org/github/vdem-eastasia/seminars/blob/tutorial-material/tutorial/1b_setup-miniconda.ipynb)
+See [tutorial/](./tutorial) directory or the viewer at [nbviewer](https://nbviewer.jupyter.org/github/vdem-eastasia/seminars/tree/master/tutorial/).
